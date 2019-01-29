@@ -1,6 +1,9 @@
 #  List node_modules
 
-Small macOS app which lists node_modules folder to be drag and dropped into Spotlight Privacy.
+macOS app which lists `node_modules` folder so you can drag and drop them into Spotlight Privacy.
+Finally no more `node_modules` in the search results
+
+![screenshot](screenshot.png)
 
 
 ## Material
